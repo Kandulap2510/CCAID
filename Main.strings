@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "0DK-qx-M1s"; */
+"0DK-qx-M1s.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "7sg-jE-aUI"; */
+"7sg-jE-aUI.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "CCA ID"; ObjectID = "F9T-3n-eX9"; */
+"F9T-3n-eX9.text" = "CCA ID";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "OU9-Fx-6wy"; */
+"OU9-Fx-6wy.placeholder" = "Email";
